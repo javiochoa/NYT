@@ -1,0 +1,13 @@
+//
+//  Environtment.xcconfig
+//  newYorkTime
+//
+//  Created by javi on 31/01/2020.
+//  Copyright © 2020 javiochoa. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+base_url = api.nytimes.com/svc/mostpopular/v2
+api_key = 2bB0BGGe2pysadVQorASzqyClBzI5w1G

@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  newYorkTime
+
+  Created by javi on 02/02/2020.
+  Copyright © 2020 javiochoa. All rights reserved.
+*/
+
+//MARK: - ERROR
+"ERROR_400"="Error 400";
+"ERROR_500"="Error 500";
+"ERROR_NO_INTERNET"="No hay conexión a internet";
+"ERROR_NO_DATA"="No hay datos";
+"ERROR_UNAUTHORIZED"="No está autorizado";
+"ERROR_SERIALIZATION"="No se ha podido extraer el dato";
+"ERROR_CANT_LOAD_URL"="Imposible cargar la página";
+
+"LOADING"="Cargando";
+"UPDATED_AT"="Última actualización";
