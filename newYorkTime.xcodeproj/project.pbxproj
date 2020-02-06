@@ -156,7 +156,6 @@
 		593E3FC023E4DBEB00672F0C /* newYorkTime */ = {
 			isa = PBXGroup;
 			children = (
-				593E3FCF23E4DBEE00672F0C /* Info.plist */,
 				593E3FD623E4DDC700672F0C /* Resources */,
 				593E3FD723E4DDC700672F0C /* Src */,
 				593E3FD523E4DC7900672F0C /* Config */,
@@ -167,6 +166,7 @@
 		593E3FD523E4DC7900672F0C /* Config */ = {
 			isa = PBXGroup;
 			children = (
+				593E3FCF23E4DBEE00672F0C /* Info.plist */,
 				593E400523E4E04700672F0C /* Develop.xcconfig */,
 				593E400723E4E09C00672F0C /* Config.swift */,
 			);
@@ -709,12 +709,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = FLTXP6YWTE;
-				INFOPLIST_FILE = newYorkTime/Info.plist;
+				INFOPLIST_FILE = newYorkTime/Config/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.javiochoa.newYorkTime;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -729,12 +730,13 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = FLTXP6YWTE;
-				INFOPLIST_FILE = newYorkTime/Info.plist;
+				INFOPLIST_FILE = newYorkTime/Config/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.javiochoa.newYorkTime;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
